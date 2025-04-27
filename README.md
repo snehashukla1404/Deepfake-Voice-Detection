@@ -58,12 +58,12 @@ pip install -r requirements.txt
 
 ## 📸 Screenshots
 
-### Dataset
+### 🗂️📊 Dataset
 ![image](https://github.com/user-attachments/assets/a1831198-e1f6-45ea-9fab-58abb4e4ba0d)
 
-### GUI
+### 🖥️🖱️ GUI
 ![image](https://github.com/user-attachments/assets/b7f5ca43-baaa-435b-8103-cfff5c5bc880)
 
-### Result
+### ✅📈 Result
 ![image](https://github.com/user-attachments/assets/73209a66-b571-43b8-8faf-6e268eed2ee4)
 
